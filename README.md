@@ -4,7 +4,7 @@
 -👯 Full-stack developer, BE-heavy <br>
 -🔭 Cybersecurity enthusiast. <br>
 -🌱 I’m currently learning Java. <br>
- - 📫 How to reach me: ihozohonnette12@gmail.com. <br>
+- 📫 How to reach me: ihozohonnette12@gmail.com. <br>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3✨
 - ⚡ Fun fact: I love netball and  playing piano😻
@@ -25,7 +25,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
+<img align="left" alt="GitHub" width="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="padding-right:10px;" />
 <br/>
 
 ## Stats📈
