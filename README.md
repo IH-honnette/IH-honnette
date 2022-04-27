@@ -1,9 +1,9 @@
 
 # Hi there, I'm Ihozo Honnette 👋
 
--👯 Full-stack developer, BE-heavy <br>
--🔭 Cybersecurity enthusiast. <br>
--🌱 I’m currently learning Java. <br>
+-👯 Full-stack developer, BE-heavy
+-🔭 Cybersecurity enthusiast.
+-🌱 I’m currently learning Java.
 - 📫 How to reach me: ihozohonnette12@gmail.com. <br>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3✨
@@ -18,6 +18,8 @@
 <img align="left"  alt="Visual Studio Code"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="padding-right:10px;"/>
 <img align="left"  alt="Visual Studio Code"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="padding-right:10px;"/>
 <img align="left"  alt="Visual Studio Code"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:10px;"/>
+<img align="left" alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="padding-right:10px;" />
 <p></p>
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
@@ -25,8 +27,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="padding-right:10px;" />
 <br/>
 
 ## Stats📈
