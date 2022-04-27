@@ -2,8 +2,9 @@
 # Hi there, I'm Ihozo Honnette 👋
 
 - 👯 Full-stack developer, BE-heavy
+- 🔭 Cybersecurity enthusiast.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: ihozohonnette12@gmail.com. 
-- 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3✨
 - ⚡ Fun fact: I love netball and  playing piano😻
@@ -25,13 +26,13 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img  alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="padding-right:10px;" />
 <br/>
 
-## Stats📈
+### Stats📈
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IH-honnette&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="IH-honnette" />
-<br/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IH-honnette&theme=highcontrast&hide_border=true" alt="IH-honnette" />
 </p> 
 
