@@ -29,7 +29,7 @@
 <p></p>
 
 ### Stats📈
-<p align="center">
+<p align="left">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IH-honnette&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="IH-honnette" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IH-honnette&theme=highcontrast&hide_border=true" alt="IH-honnette" />
 </p> 
