@@ -2,8 +2,8 @@
 # Hi there, I'm Ihozo Honnette 👋
 
 - 👯 Full-stack developer, BE-heavy
-- 🔭 Cybersecurity enthusiast.
-- 🌱 I’m currently learning Java.
+- 🔭 embedded systems enthusiast.
+- 🌱 I’m currently learning IoT.
 - 📫 How to reach me: ihozohonnette12@gmail.com. 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3✨
