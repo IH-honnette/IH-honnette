@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ihozo Honnette 👋
+# Hi there, I'm Ihozo Honette 👋
 
 - 👯 Full-stack developer, BE-heavy
 - 🔭 Embedded systems & IoT enthusiast.
